@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "socistockfinalprojec",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authSociStockFinalproject",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

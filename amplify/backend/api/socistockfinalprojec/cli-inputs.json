@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "socistockfinalprojec",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\matin\\Desktop\\SociStock\\amplify\\backend\\api\\socistockfinalprojec\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authSociStockFinalproject"
+    }
+  }
+}

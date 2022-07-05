@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3af695319",
+  "policyUUID": "af695319",
+  "bucketName": "socistockprofilepictures",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

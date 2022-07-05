@@ -1,0 +1,28 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-socistockfinalprojec-staging-143046-authRole",
+      "UnauthRoleArn": "arn:aws:iam::593959678306:role/amplify-socistockfinalprojec-staging-143046-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::593959678306:role/amplify-socistockfinalprojec-staging-143046-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-socistockfinalprojec-staging-143046-deployment",
+      "UnauthRoleName": "amplify-socistockfinalprojec-staging-143046-unauthRole",
+      "StackName": "amplify-socistockfinalprojec-staging-143046",
+      "StackId": "arn:aws:cloudformation:us-east-1:593959678306:stack/amplify-socistockfinalprojec-staging-143046/95cf96b0-e737-11ec-bc8c-0a81cc9ffc8b",
+      "AmplifyAppId": "dgrv0jtj3g493"
+    },
+    "categories": {
+      "auth": {
+        "SociStockFinalproject": {}
+      },
+      "function": {
+        "getStreamToken": {
+          "streamKey": "ax45qnbd5sha",
+          "streamSecret": "vd9gseqqnygvpav3q5db8s9y59m96rc9uxfhxz7e7tjhjtvmdv9f5qmq94s2mueq",
+          "deploymentBucketName": "amplify-socistockfinalprojec-staging-143046-deployment",
+          "s3Key": "amplify-builds/getStreamToken-2f4f716b52615942475a-build.zip"
+        }
+      }
+    }
+  }
+}
